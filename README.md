@@ -2,6 +2,10 @@
 
 Minimal angular cli template with initialized router and materialize-css
 
+app.js is an express server for running in production.
+
+You need to compile everything with -prod flag before pushing to production, app.js serves the index.html from dist folder.
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.17.
 
 ## Development server
