@@ -14,12 +14,10 @@
   },
   "private": true,
   "dependencies": {
-    "angular2-materialize": "^5.2.1",
     "body-parser": "~1.15.1",
     "cookie-parser": "~1.4.3",
     "core-js": "^2.4.1",
     "express": "^4.14.0",
-    "hammerjs": "^2.0.8",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0"
   },
@@ -51,9 +49,10 @@
     "ts-node": "1.2.1",
     "tslint": "3.13.0",
     "typescript": "2.0.2",
-    "actioncable-js": "^5.0.0-rc2",
     "jquery": "^3.1.1",
     "materialize-css": "^0.97.7",
-    "moment": "^2.15.1"
+    "angular2-materialize": "^5.2.1",
+    "moment": "^2.15.1",
+    "hammerjs": "^2.0.8"
   }
 }
